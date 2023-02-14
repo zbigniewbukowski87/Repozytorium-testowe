@@ -1,1 +1,2 @@
 pierwsza linia
+zmiana dodawana jako pierwsza
