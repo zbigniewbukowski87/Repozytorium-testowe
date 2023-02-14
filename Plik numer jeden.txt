@@ -1,2 +1,5 @@
 pierwsza linia
+zmiana dodawana jako druga
+druga
+druga
 zmiana dodawana jako pierwsza
